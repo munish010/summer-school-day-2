@@ -1,0 +1,39 @@
+*{
+    padding:0;
+    mapping:0;
+}
+h1,h2{
+    background-color: cadetblue;
+    font-style: bold;
+}
+.bio{
+    background-color: chartreuse;
+}
+#profile-pic {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  
+}
+.bio{
+    border-style: dashed;
+    font-style: italic;
+    color:brown;
+}
+h1{
+    font-style: normal;
+}
+p{
+    font-display: none;
+}
+h1,h2{
+    color:darkgray;
+    text-align: center;
+}
+
+ .contact a:hover {
+      color: #e74c3c;
+      text-decoration: underline;}
+      .hobbies{
+        color:brown;
+      }
